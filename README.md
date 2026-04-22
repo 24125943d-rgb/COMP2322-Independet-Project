@@ -1,8 +1,8 @@
 # Comp 2322 Project: Multi-thread Web Server
 
 ## Student Information
-* **Name:** [Your Name Here]
-* **Student ID:** [Your Student ID Here]
+* **Name:** RUAN Zhihan
+* **Student ID:** 24125943D
 
 ## Environment Setup
 * **Language:** Python 3.x
