@@ -1,0 +1,13 @@
+[2026-04-23 01:31:55] IP: 127.0.0.1 | File: /index.html | Status: 200 OK
+[2026-04-23 01:31:55] IP: 127.0.0.1 | File: /favicon.ico | Status: 404 Not Found
+[2026-04-23 01:32:34] IP: 127.0.0.1 | File: /secret.txt | Status: 403 Forbidden
+[2026-04-23 01:36:16] IP: 127.0.0.1 | File: /.well-known/appspecific/com.chrome.devtools.json | Status: 404 Not Found
+[2026-04-23 01:36:22] IP: 127.0.0.1 | File: /index.html | Status: 304 Not Modified
+[2026-04-23 01:36:22] IP: 127.0.0.1 | File: /.well-known/appspecific/com.chrome.devtools.json | Status: 404 Not Found
+[2026-04-23 01:43:15] IP: 127.0.0.1 | File: /nosuchfile.html | Status: 404 Not Found
+[2026-04-23 01:43:15] IP: 127.0.0.1 | File: /.well-known/appspecific/com.chrome.devtools.json | Status: 404 Not Found
+[2026-04-23 01:47:28] IP: 127.0.0.1 | File: /index.html | Status: 304 Not Modified
+[2026-04-23 01:47:29] IP: 127.0.0.1 | File: /index.html | Status: 304 Not Modified
+[2026-04-23 01:47:37] IP: 127.0.0.1 | File: /index.html | Status: 304 Not Modified
+[2026-04-23 01:47:43] IP: 127.0.0.1 | File: /index.html | Status: 304 Not Modified
+[2026-04-23 01:47:44] IP: 127.0.0.1 | File: /index.html | Status: 304 Not Modified
